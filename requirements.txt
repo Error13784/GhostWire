@@ -1,0 +1,2 @@
+# No Python package dependencies are required to run this tool.
+# All necessary modules (argparse, re, sys, subprocess, os, signal) are part of the standard Python 3 library.
